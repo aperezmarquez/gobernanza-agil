@@ -1,0 +1,3 @@
+=== SCRUM METRICS ===
+Velocidad (issues cerrados): 0
+Lead time promedio (días): nan

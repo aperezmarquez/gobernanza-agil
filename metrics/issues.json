@@ -1,0 +1,342 @@
+[
+  {
+    "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/4",
+    "repository_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil",
+    "labels_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/4/labels{/name}",
+    "comments_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/4/comments",
+    "events_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/4/events",
+    "html_url": "https://github.com/aperezmarquez/gobernanza-agil/issues/4",
+    "id": 3681767094,
+    "node_id": "I_kwDOQgdY8M7bc062",
+    "number": 4,
+    "title": "Documentar integracion",
+    "user": {
+      "login": "aperezmarquez",
+      "id": 145431629,
+      "node_id": "U_kgDOCKscTQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145431629?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/aperezmarquez",
+      "html_url": "https://github.com/aperezmarquez",
+      "followers_url": "https://api.github.com/users/aperezmarquez/followers",
+      "following_url": "https://api.github.com/users/aperezmarquez/following{/other_user}",
+      "gists_url": "https://api.github.com/users/aperezmarquez/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/aperezmarquez/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/aperezmarquez/subscriptions",
+      "organizations_url": "https://api.github.com/users/aperezmarquez/orgs",
+      "repos_url": "https://api.github.com/users/aperezmarquez/repos",
+      "events_url": "https://api.github.com/users/aperezmarquez/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/aperezmarquez/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 9749863302,
+        "node_id": "LA_kwDOQgdY8M8AAAACRSMbhg",
+        "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/labels/documentation",
+        "name": "documentation",
+        "color": "0075ca",
+        "default": true,
+        "description": "Improvements or additions to documentation"
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2025-12-01T16:18:52Z",
+    "updated_at": "2025-12-01T16:18:52Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "active_lock_reason": null,
+    "sub_issues_summary": {
+      "total": 0,
+      "completed": 0,
+      "percent_completed": 0
+    },
+    "issue_dependencies_summary": {
+      "blocked_by": 0,
+      "total_blocked_by": 0,
+      "blocking": 0,
+      "total_blocking": 0
+    },
+    "body": "Documentar toda la funcionalidad de integración de datos.",
+    "closed_by": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/4/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "timeline_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/4/timeline",
+    "performed_via_github_app": null,
+    "state_reason": null
+  },
+  {
+    "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/3",
+    "repository_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil",
+    "labels_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/3/labels{/name}",
+    "comments_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/3/comments",
+    "events_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/3/events",
+    "html_url": "https://github.com/aperezmarquez/gobernanza-agil/issues/3",
+    "id": 3681764810,
+    "node_id": "I_kwDOQgdY8M7bc0XK",
+    "number": 3,
+    "title": "Arreglar grafico",
+    "user": {
+      "login": "aperezmarquez",
+      "id": 145431629,
+      "node_id": "U_kgDOCKscTQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145431629?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/aperezmarquez",
+      "html_url": "https://github.com/aperezmarquez",
+      "followers_url": "https://api.github.com/users/aperezmarquez/followers",
+      "following_url": "https://api.github.com/users/aperezmarquez/following{/other_user}",
+      "gists_url": "https://api.github.com/users/aperezmarquez/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/aperezmarquez/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/aperezmarquez/subscriptions",
+      "organizations_url": "https://api.github.com/users/aperezmarquez/orgs",
+      "repos_url": "https://api.github.com/users/aperezmarquez/repos",
+      "events_url": "https://api.github.com/users/aperezmarquez/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/aperezmarquez/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 9749863287,
+        "node_id": "LA_kwDOQgdY8M8AAAACRSMbdw",
+        "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/labels/bug",
+        "name": "bug",
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working"
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2025-12-01T16:18:17Z",
+    "updated_at": "2025-12-01T16:18:17Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "active_lock_reason": null,
+    "sub_issues_summary": {
+      "total": 0,
+      "completed": 0,
+      "percent_completed": 0
+    },
+    "issue_dependencies_summary": {
+      "blocked_by": 0,
+      "total_blocked_by": 0,
+      "blocking": 0,
+      "total_blocking": 0
+    },
+    "body": "La gráfica de rendimiento se genera incorrectamente, los datos no se correlación entre los guardados y los mostrados.",
+    "closed_by": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/3/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "timeline_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/3/timeline",
+    "performed_via_github_app": null,
+    "state_reason": null
+  },
+  {
+    "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/2",
+    "repository_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil",
+    "labels_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/2/labels{/name}",
+    "comments_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/2/comments",
+    "events_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/2/events",
+    "html_url": "https://github.com/aperezmarquez/gobernanza-agil/issues/2",
+    "id": 3681759023,
+    "node_id": "I_kwDOQgdY8M7bcy8v",
+    "number": 2,
+    "title": "Generador KPIs",
+    "user": {
+      "login": "aperezmarquez",
+      "id": 145431629,
+      "node_id": "U_kgDOCKscTQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145431629?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/aperezmarquez",
+      "html_url": "https://github.com/aperezmarquez",
+      "followers_url": "https://api.github.com/users/aperezmarquez/followers",
+      "following_url": "https://api.github.com/users/aperezmarquez/following{/other_user}",
+      "gists_url": "https://api.github.com/users/aperezmarquez/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/aperezmarquez/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/aperezmarquez/subscriptions",
+      "organizations_url": "https://api.github.com/users/aperezmarquez/orgs",
+      "repos_url": "https://api.github.com/users/aperezmarquez/repos",
+      "events_url": "https://api.github.com/users/aperezmarquez/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/aperezmarquez/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 9749863327,
+        "node_id": "LA_kwDOQgdY8M8AAAACRSMbnw",
+        "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/labels/enhancement",
+        "name": "enhancement",
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request"
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2025-12-01T16:17:10Z",
+    "updated_at": "2025-12-01T16:17:10Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "active_lock_reason": null,
+    "sub_issues_summary": {
+      "total": 0,
+      "completed": 0,
+      "percent_completed": 0
+    },
+    "issue_dependencies_summary": {
+      "blocked_by": 0,
+      "total_blocked_by": 0,
+      "blocking": 0,
+      "total_blocking": 0
+    },
+    "body": "Feature que se encarga de crear indicadores clave en tiempo real.",
+    "closed_by": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/2/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "timeline_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/2/timeline",
+    "performed_via_github_app": null,
+    "state_reason": null
+  },
+  {
+    "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/1",
+    "repository_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil",
+    "labels_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/1/labels{/name}",
+    "comments_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/1/comments",
+    "events_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/1/events",
+    "html_url": "https://github.com/aperezmarquez/gobernanza-agil/issues/1",
+    "id": 3681752965,
+    "node_id": "I_kwDOQgdY8M7bcxeF",
+    "number": 1,
+    "title": "Integración de datos",
+    "user": {
+      "login": "aperezmarquez",
+      "id": 145431629,
+      "node_id": "U_kgDOCKscTQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145431629?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/aperezmarquez",
+      "html_url": "https://github.com/aperezmarquez",
+      "followers_url": "https://api.github.com/users/aperezmarquez/followers",
+      "following_url": "https://api.github.com/users/aperezmarquez/following{/other_user}",
+      "gists_url": "https://api.github.com/users/aperezmarquez/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/aperezmarquez/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/aperezmarquez/subscriptions",
+      "organizations_url": "https://api.github.com/users/aperezmarquez/orgs",
+      "repos_url": "https://api.github.com/users/aperezmarquez/repos",
+      "events_url": "https://api.github.com/users/aperezmarquez/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/aperezmarquez/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "id": 9749863327,
+        "node_id": "LA_kwDOQgdY8M8AAAACRSMbnw",
+        "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/labels/enhancement",
+        "name": "enhancement",
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request"
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [
+
+    ],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2025-12-01T16:16:00Z",
+    "updated_at": "2025-12-01T16:16:00Z",
+    "closed_at": null,
+    "author_association": "OWNER",
+    "active_lock_reason": null,
+    "sub_issues_summary": {
+      "total": 0,
+      "completed": 0,
+      "percent_completed": 0
+    },
+    "issue_dependencies_summary": {
+      "blocked_by": 0,
+      "total_blocked_by": 0,
+      "blocking": 0,
+      "total_blocking": 0
+    },
+    "body": "Toda la integración de datos que provienen de distintas plantas de producción.",
+    "closed_by": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/1/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "timeline_url": "https://api.github.com/repos/aperezmarquez/gobernanza-agil/issues/1/timeline",
+    "performed_via_github_app": null,
+    "state_reason": null
+  }
+]
