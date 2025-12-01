@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pygithub pandas
+          pip install pygithub pandas matplotlib
 
       - name: Run metrics scripts
         env:
