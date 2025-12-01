@@ -50,25 +50,28 @@ plt.tight_layout()
 plt.savefig("metrics/lead_time.png")
 plt.close()
 
-# Burndown Chart simplificado
+# Burndown Chart histórico
 if not df.empty:
     start_date = df["created"].min().date()
-    end_date = datetime.utcnow().date()
+    end_date = df["closed"].max().date() if df["closed"].notnull().any() else datetime.utcnow().date()
     date_range = pd.date_range(start=start_date, end=end_date)
 
     burndown = pd.Series(0, index=date_range)
+
     for _, row in df.iterrows():
-        burndown[row["created"].date():] += 1
-        if row["closed"] is not None:
-            burndown[row["closed"].date():] -= 1
+        created = row["created"].date()
+        closed = row["closed"].date() if pd.notnull(row["closed"]) else end_date
+        # Incrementar 1 en cada día desde creación hasta cierre
+        burndown[created:closed + timedelta(days=1)] += 1
 
     plt.figure(figsize=(10,5))
     plt.plot(burndown.index, burndown.values, marker='o', color='red')
     plt.xlabel("Fecha")
     plt.ylabel("Issues abiertos")
-    plt.title("Burndown Chart Simplificado")
+    plt.title("Burndown Chart Histórico")
     plt.grid(True)
     plt.xticks(rotation=45)
     plt.tight_layout()
     plt.savefig("metrics/burndown.png")
     plt.close()
+
