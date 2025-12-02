@@ -1,5 +1,9 @@
 name: Scrum Metrics on Commit
 
+
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   push:
