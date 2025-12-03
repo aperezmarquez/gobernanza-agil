@@ -4,5 +4,5 @@ id,title,created,closed,duration_days
 5,Validar schema,2025-12-01 16:30:40,,
 4,Documentar integracion,2025-12-01 16:18:52,,
 3,Arreglar grafico,2025-12-01 16:18:17,,
-2,Generador KPIs,2025-12-01 16:17:10,2025-12-03 08:35:13,1.0
+2,Generador KPIs,2025-12-01 16:17:10,,
 1,Integración de datos,2025-12-01 16:16:00,,
