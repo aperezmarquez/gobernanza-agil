@@ -62,7 +62,7 @@ if not df.empty:
         created = row["created"].date()
         closed = row["closed"].date() if pd.notnull(row["closed"]) else end_date
         # Incrementar 1 en cada día desde creación hasta cierre
-        burndown[created:closed + timedelta(days=1)] += 1
+        burndown[created : closed] += 1
 
     plt.figure(figsize=(10,5))
     plt.plot(burndown.index, burndown.values, marker='o', color='red')
