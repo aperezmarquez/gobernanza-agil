@@ -212,7 +212,7 @@
     "labels": [
 
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignee": null,
     "assignees": [
@@ -221,8 +221,8 @@
     "milestone": null,
     "comments": 0,
     "created_at": "2025-12-01T16:30:40Z",
-    "updated_at": "2025-12-02T01:31:29Z",
-    "closed_at": null,
+    "updated_at": "2025-12-03T08:11:48Z",
+    "closed_at": "2025-12-03T08:11:48Z",
     "author_association": "MEMBER",
     "type": null,
     "active_lock_reason": null,
@@ -240,22 +240,22 @@
     },
     "body": "Actualizado desde Jira",
     "closed_by": {
-      "login": "aperezmarquez",
-      "id": 145431629,
-      "node_id": "U_kgDOCKscTQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/145431629?v=4",
+      "login": "alinarojas",
+      "id": 117298822,
+      "node_id": "U_kgDOBv3Whg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117298822?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/aperezmarquez",
-      "html_url": "https://github.com/aperezmarquez",
-      "followers_url": "https://api.github.com/users/aperezmarquez/followers",
-      "following_url": "https://api.github.com/users/aperezmarquez/following{/other_user}",
-      "gists_url": "https://api.github.com/users/aperezmarquez/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/aperezmarquez/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/aperezmarquez/subscriptions",
-      "organizations_url": "https://api.github.com/users/aperezmarquez/orgs",
-      "repos_url": "https://api.github.com/users/aperezmarquez/repos",
-      "events_url": "https://api.github.com/users/aperezmarquez/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/aperezmarquez/received_events",
+      "url": "https://api.github.com/users/alinarojas",
+      "html_url": "https://github.com/alinarojas",
+      "followers_url": "https://api.github.com/users/alinarojas/followers",
+      "following_url": "https://api.github.com/users/alinarojas/following{/other_user}",
+      "gists_url": "https://api.github.com/users/alinarojas/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/alinarojas/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/alinarojas/subscriptions",
+      "organizations_url": "https://api.github.com/users/alinarojas/orgs",
+      "repos_url": "https://api.github.com/users/alinarojas/repos",
+      "events_url": "https://api.github.com/users/alinarojas/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/alinarojas/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
@@ -274,7 +274,7 @@
     },
     "timeline_url": "https://api.github.com/repos/Perry-Multi-LLM/gobernanza-agil/issues/5/timeline",
     "performed_via_github_app": null,
-    "state_reason": "reopened"
+    "state_reason": "completed"
   },
   {
     "url": "https://api.github.com/repos/Perry-Multi-LLM/gobernanza-agil/issues/4",
@@ -673,8 +673,8 @@
     "active_lock_reason": null,
     "sub_issues_summary": {
       "total": 1,
-      "completed": 0,
-      "percent_completed": 0
+      "completed": 1,
+      "percent_completed": 100
     },
     "issue_dependencies_summary": {
       "blocked_by": 0,
