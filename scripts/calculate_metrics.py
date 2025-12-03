@@ -60,9 +60,13 @@ if not df.empty:
 
     for _, row in df.iterrows():
         created = row["created"].date()
-        closed = row["closed"].date() if pd.notnull(row["closed"]) else end_date
-        # Incrementar 1 en cada día desde creación hasta cierre
-        burndown[created : closed] += 1
+        if pd.notnull(row["closed"]):
+            closed = row["closed"].date()
+            closed_effective = closed - pd.Timedelta(days=1)
+        else:
+            closed_effective = end_date  # sigue abierto
+
+        burndown[created : closed_effective] += 1
 
     plt.figure(figsize=(10,5))
     plt.plot(burndown.index, burndown.values, marker='o', color='red')
